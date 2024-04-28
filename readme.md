@@ -8,3 +8,4 @@ Projects which are created while learning javascript.
 4. JS_Project_04 - KeyBoard Check
 5. JS_Project_05 - Digital Clock
 6. JS_Project_06 - Guess the Number
+7. JS_Project_07 - Bubble Game
