@@ -11,3 +11,4 @@ Projects which are created while learning javascript.
 7. JS_Project_07 - Bubble Game
 8. JS_Project_08 - TO DO List
 9. JS_Project_09 - Tic Tac Toe Game
+10. JS_Project_10 - Rock Paper Scissor Game
